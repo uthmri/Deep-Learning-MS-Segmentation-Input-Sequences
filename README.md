@@ -1,0 +1,4 @@
+# Study the effect of different combinations of inpout image contrasts on the performance of deep learning FCNN models for brain tissue and lesion segmentation in multiple sclerosis
+
+* Code and trained model used in our recent paper:
+Narayana, Ponnada A., Ivan Coronado, Sheeba J. Sujit, Jerry S. Wolinsky, Fred D. Lublin, and Refaat E. Gabr. Narayana, Ponnada A., Ivan Coronado, Sheeba J. Sujit, Xiaojun Sun, Jerry S. Wolinsky, and Refaat E. Gabr. "Are multi-contrast magnetic resonance images necessary for segmenting multiple sclerosis brains? A large cohort study based on deep learning." Magnetic resonance imaging 65 (2020): 8-14.
